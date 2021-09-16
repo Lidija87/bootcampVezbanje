@@ -1,0 +1,4 @@
+Ime: Lidija
+Prezime: Veljkovic
+Zanimanje: Diplomirani ekonomista
+GitHub username: lidija-vm
